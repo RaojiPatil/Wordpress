@@ -11,6 +11,14 @@
 // remove_all_filter()
 // doing_filter()
 
+// Action hooks:- 
+
+// Add_action()
+// do_action()
+// has_action()
+// Doing_action()
+// remove_action()
+// remove_all_filters()
 
 ?>
 
